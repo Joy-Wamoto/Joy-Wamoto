@@ -3,7 +3,7 @@
 uncovering insights from data and finding ways to make digital spaces more secure.
 ---
 #My tech Stack
-* Languages * Python, Java, SQL, C++, C, Pascal
+* Languages *  Python, Java, SQL, C++, C, Pascal
 * Data Science * Pandas, Numpy, Matplotlib
 * Security Intrests * Network Security, Ethical Hacking, Cryptography
 * Tools * LInux, Git/Github, VS Code

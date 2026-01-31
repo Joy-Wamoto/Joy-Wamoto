@@ -2,11 +2,15 @@
 ## A third year student pursuing Computer Science at Maseno University,I am an aspiring tech professional passionate about cyber security and data science.I love
 uncovering insights from data and finding ways to make digital spaces more secure.
 ---
-#My tech Stack
-* Languages *  Python, Java, SQL, C++, C, Pascal
-* Data Science * Pandas, Numpy, Matplotlib
-* Security Intrests * Network Security, Ethical Hacking, Cryptography
-* Tools * LInux, Git/Github, VS Code
+#  My tech Stack
+* Languages *
+*  Python, Java, SQL, C++, C, Pascal
+* Data Science *
+*  Pandas, Numpy, Matplotlib
+* Security Intrests *
+*  Network Security, Ethical Hacking, Cryptography
+* Tools *
+* LInux, Git/Github, VS Code
 ---
 # Projects I am working on
 * E-Commerce Dtabase Design: *

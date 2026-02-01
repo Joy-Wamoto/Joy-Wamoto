@@ -4,6 +4,11 @@ I am a third-year student pursuing Computer Science at Maseno University. I am a
 
 ---
 
+##  Current Focus & Attachment
+I am currently seeking a *Computer Science Attachment* for  May - August 2026. I am eager to apply my academic knowledge in a real-world environment and contribute to a professional team.
+
+---
+
 ##  My Tech Stack
 
 * *Languages:* Python, Java, SQL, C++, C, Pascal
@@ -19,7 +24,20 @@ I am a third-year student pursuing Computer Science at Maseno University. I am a
 * *Network Security Lab:* Used Linux tools to simulate and defend against basic brute force attacks in a controlled environment.
 * *Password Security Analyzer:* Built a Python tool that evaluates password strength based on entropy and character variety.
 
+  ---
 
+  ### Learning Goals for 2026
+* *Cybersecurity:* Gaining hands-on experience with Vulnerability Assessment and Penetration Testing.
+* *Software Development:* Mastering Backend development using Python (Django/Flask) and Java (Spring Boot).
+* *Professional Growth:* Understanding the Agile methodology in a corporate tech setting.
+
+---
+
+  ## Connect with Me
+
+-  *Email:* joy.wamoto01@gmail.com
+- *Phone number:* +254112063696
+  
 
 
 <!--

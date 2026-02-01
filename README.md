@@ -22,7 +22,7 @@ I am currently seeking a *Computer Science Attachment* for  May - August 2026. I
 
 * *E-Commerce Database Design:* Created a relational database using SQL to manage inventory for a mock retail shop as part of my Database Systems course.
 * *Network Security Lab:* Used Linux tools to simulate and defend against basic brute force attacks in a controlled environment.
-* *Password Security Analyzer:* Built a Python tool that evaluates password strength based on entropy and character variety.
+* *Password Security Analyzer:* Built a Python tool that evaluates password strength based on entropy and character variety - https://github.com/Joy-Wamoto/Password-Security--Analyzer.
 
   ---
 
@@ -32,7 +32,7 @@ I am currently seeking a *Computer Science Attachment* for  May - August 2026. I
 * *Professional Growth:* Understanding the Agile methodology in a corporate tech setting.
 
 ---
-
+ 
   ## Connect with Me
 
 -  *Email:* joy.wamoto01@gmail.com

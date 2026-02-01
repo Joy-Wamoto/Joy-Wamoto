@@ -20,7 +20,7 @@ I am currently seeking a *Computer Science Attachment* for  May - August 2026. I
 
 ##  Projects I am working on
 
-* *E-Commerce Database Design:* Created a relational database using SQL to manage inventory for a mock retail shop as part of my Database Systems course.
+* *E-Commerce Database Design:* Created a relational database using SQL to manage inventory for a mock retail shop as part of my Database Systems course -https://github.com/Joy-Wamoto/E-Commerce-Database-Design.
 * *Network Security Lab:* Used Linux tools to simulate and defend against basic brute force attacks in a controlled environment.
 * *Password Security Analyzer:* Built a Python tool that evaluates password strength based on entropy and character variety - https://github.com/Joy-Wamoto/Password-Security--Analyzer.
 

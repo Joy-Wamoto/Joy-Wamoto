@@ -1,6 +1,6 @@
 # Hi, I am Joy Wamoto 👋
 
-I am a third-year student pursuing Computer Science at Maseno University. I am an aspiring tech professional passionate about Cybersecurity and *Data Science. I love uncovering insights from data and finding ways to make digital spaces more secure.
+I am a third-year student pursuing Computer Science at Maseno University. I am an aspiring tech professional passionate about Cybersecurity and Data Science. I love uncovering insights from data and finding ways to make digital spaces more secure.
 
 ---
 
